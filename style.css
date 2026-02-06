@@ -1,0 +1,31 @@
+
+body {
+    background-color: #f5f5f5; 
+    color: #333; 
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #4B0082; 
+}
+
+
+.card {
+    background-color: #fff8dc; 
+    border-radius: 10px;
+}
+
+
+h1, h2, h3, h4, h5 {
+    color: #4B0082; 
+}
+
+.btn-primary {
+    background-color: #4B0082;
+    border-color: #4B0082;
+}
+
+.btn-primary:hover {
+    background-color: #6A0DAD; 
+    border-color: #6A0DAD;
+}
