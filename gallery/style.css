@@ -6,7 +6,7 @@ body {
 }
 
 .navbar {
-    background-color: #4B0082; 
+    background-color: indigo; 
 }
 
 
@@ -17,15 +17,15 @@ body {
 
 
 h1, h2, h3, h4, h5 {
-    color: #4B0082; 
+    color: indigo; 
 }
 
 .btn-primary {
-    background-color: #4B0082;
+    background-color: lavender;
     border-color: #4B0082;
 }
 
 .btn-primary:hover {
-    background-color: #6A0DAD; 
-    border-color: #6A0DAD;
+    background-color: indigo; 
+    border-color: lavender;
 }
